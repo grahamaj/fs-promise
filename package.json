@@ -1,0 +1,27 @@
+{
+  "name": "fs-promise",
+  "version": "0.0.1",
+  "description": "Simple wrapper the promisifies the Node.js fs module",
+  "main": "fs-promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grahamaj/fs-promise.git"
+  },
+  "keywords": [
+    "fs",
+    "promise",
+    "promisify"
+  ],
+  "author": "A.J. Graham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grahamaj/fs-promise/issues"
+  },
+  "homepage": "https://github.com/grahamaj/fs-promise#readme",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
